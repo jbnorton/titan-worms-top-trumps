@@ -1,0 +1,301 @@
+[
+  {
+    "id": "jared",
+    "name": "Jared",
+    "image": "cards/jared.jpg",
+    "stats": [
+      9,
+      7,
+      8,
+      7,
+      7
+    ],
+    "gold": false
+  },
+  {
+    "id": "max",
+    "name": "Max",
+    "image": "cards/max.jpg",
+    "stats": [
+      6,
+      9,
+      7,
+      8,
+      7
+    ],
+    "gold": false
+  },
+  {
+    "id": "kyle",
+    "name": "Kyle",
+    "image": "cards/kyle.jpg",
+    "stats": [
+      9,
+      8,
+      6,
+      7,
+      6
+    ],
+    "gold": false
+  },
+  {
+    "id": "sean",
+    "name": "Sean",
+    "image": "cards/sean.jpg",
+    "stats": [
+      7,
+      8,
+      8,
+      9,
+      8
+    ],
+    "gold": false
+  },
+  {
+    "id": "smiffy",
+    "name": "Smiffy",
+    "image": "cards/smiffy.jpg",
+    "stats": [
+      8,
+      5,
+      4,
+      7,
+      7
+    ],
+    "gold": false
+  },
+  {
+    "id": "jill",
+    "name": "Jill",
+    "image": "cards/jill.jpg",
+    "stats": [
+      4,
+      3,
+      10,
+      8,
+      3
+    ],
+    "gold": false
+  },
+  {
+    "id": "andy",
+    "name": "Andy",
+    "image": "cards/andy.jpg",
+    "stats": [
+      8,
+      5,
+      8,
+      7,
+      7
+    ],
+    "gold": false
+  },
+  {
+    "id": "karin",
+    "name": "Karin",
+    "image": "cards/karin.jpg",
+    "stats": [
+      3,
+      2,
+      7,
+      3,
+      2
+    ],
+    "gold": false
+  },
+  {
+    "id": "richard",
+    "name": "Richard",
+    "image": "cards/richard.jpg",
+    "stats": [
+      7,
+      5,
+      3,
+      6,
+      8
+    ],
+    "gold": false
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "image": "cards/mark.jpg",
+    "stats": [
+      4,
+      4,
+      5,
+      4,
+      5
+    ],
+    "gold": false
+  },
+  {
+    "id": "jess-nugs",
+    "name": "Jess 'Nugs'",
+    "image": "cards/jess-nugs.jpg",
+    "stats": [
+      2,
+      3,
+      5,
+      3,
+      4
+    ],
+    "gold": false
+  },
+  {
+    "id": "toothless",
+    "name": "Toothless",
+    "image": "cards/toothless.jpg",
+    "stats": [
+      6,
+      6,
+      7,
+      8,
+      4
+    ],
+    "gold": false
+  },
+  {
+    "id": "donna",
+    "name": "Donna",
+    "image": "cards/donna.jpg",
+    "stats": [
+      5,
+      6,
+      7,
+      6,
+      5
+    ],
+    "gold": false
+  },
+  {
+    "id": "ultimate-jared",
+    "name": "Ultimate Jared",
+    "image": "cards/ultimate-jared.jpg",
+    "stats": [
+      10,
+      9,
+      10,
+      9,
+      9
+    ],
+    "gold": true
+  },
+  {
+    "id": "jared-max",
+    "name": "Jared & Max",
+    "image": "cards/jared-max.jpg",
+    "stats": [
+      9,
+      8,
+      10,
+      9,
+      9
+    ],
+    "gold": true
+  },
+  {
+    "id": "max-nugs",
+    "name": "Max & Nugs",
+    "image": "cards/max-nugs.jpg",
+    "stats": [
+      6,
+      5,
+      7,
+      5,
+      5
+    ],
+    "gold": true
+  },
+  {
+    "id": "vicky",
+    "name": "Vicky",
+    "image": "cards/vicky.jpg",
+    "stats": [
+      6,
+      7,
+      6,
+      7,
+      5
+    ],
+    "gold": false
+  },
+  {
+    "id": "jenny",
+    "name": "Jenny",
+    "image": "cards/jenny.jpg",
+    "stats": [
+      6,
+      7,
+      10,
+      5,
+      8
+    ],
+    "gold": false
+  },
+  {
+    "id": "andy-alt",
+    "name": "Andy (Alternate)",
+    "image": "cards/andy-alt.jpg",
+    "stats": [
+      6,
+      5,
+      6,
+      6,
+      6
+    ],
+    "gold": false
+  },
+  {
+    "id": "ozzie",
+    "name": "Ozzie",
+    "image": "cards/ozzie.jpg",
+    "stats": [
+      6,
+      9,
+      8,
+      5,
+      6
+    ],
+    "gold": false
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "image": "cards/adam.jpg",
+    "stats": [
+      8,
+      7,
+      7,
+      6,
+      2
+    ],
+    "gold": false
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "image": "cards/david.jpg",
+    "stats": [
+      5,
+      7,
+      10,
+      5,
+      9
+    ],
+    "gold": false
+  },
+  {
+    "id": "nigel",
+    "name": "Nigel",
+    "image": "cards/nigel.jpg",
+    "stats": [
+      10,
+      5,
+      6,
+      5,
+      7
+    ],
+    "gold": false
+  }
+]
